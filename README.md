@@ -138,7 +138,7 @@ From my analysis,
 - avg runtime movie  116, 
 - avg metascore 55.15
 
-Avg rating movie topping our chart is John Wick with a rating score of 8.20
+Avg rating movie topping the chart is John Wick with a rating score of 8.20
 The genre with the most votes is Action movies, most people are lovers of action movies 
 The actor with the top avg rating is Keanu Reeves, who was the main character in John Wick.
 Director with top avg rating is Chad Stahelski, who directed the John Wick movie.
