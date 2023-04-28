@@ -138,8 +138,8 @@ From my analysis,
 - avg runtime movie  116, 
 - avg metascore 55.15
 
-Avg rating movie toping our chart is John Wick with a rating score of 8.20
-Genre with most votes are Action movies, most people are lovers of action movies 
-Actor with top avg rating is Keanu Reeves, who was the main character in John Wick.
+Avg rating movie topping our chart is John Wick with a rating score of 8.20
+The genre with the most votes is Action movies, most people are lovers of action movies 
+The actor with the top avg rating is Keanu Reeves, who was the main character in John Wick.
 Director with top avg rating is Chad Stahelski, who directed the John Wick movie.
-Movie with higest runtime is Transformers: Rise of the Beast
+Movie with highest runtime is Transformers: Rise of the Beast
