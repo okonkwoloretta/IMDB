@@ -126,4 +126,20 @@ Let’s combine them to create a dataframe and inspect its structure
 ![structure](https://user-images.githubusercontent.com/116097143/235164002-a187ea73-bd42-4c37-9334-9f206b5545b3.png)
 
 
-Time to Analyze scraped data from the web using PowerBI
+Time to Analyze my scraped data from the web using PowerBI
+
+![dashboard 1](https://user-images.githubusercontent.com/116097143/235258313-ba52e841-792c-44e2-92dc-ff4b69ffa8e5.png)
+![dashboard 2](https://user-images.githubusercontent.com/116097143/235258382-f2e90e72-1b60-4bf4-ac8e-359b224a22ee.png)
+
+From my analysis, 
+## KPI 
+- total movies 100, 
+- avg rating 6.44, -
+- avg runtime movie  116, 
+- avg metascore 55.15
+
+Avg rating movie toping our chart is John Wick with a rating score of 8.20
+Genre with most votes are Action movies, most people are lovers of action movies 
+Actor with top avg rating is Keanu Reeves, who was the main character in John Wick.
+Director with top avg rating is Chad Stahelski, who directed the John Wick movie.
+Movie with higest runtime is Transformers: Rise of the Beast
